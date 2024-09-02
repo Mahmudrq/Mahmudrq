@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/rainy mahmud ul haque" target="blank"><img src="https://img.shields.io/twitter/follow/rainy mahmud ul haque?logo=twitter&style=for-the-badge" alt="rainy mahmud ul haque" /></a> </p>
 
-- 🔭 I’m currently working on **Skitto Technology**
+- 🔭 I’m currently working on **Searchlite Communication Ltd**
 
 - 🌱 I’m currently learning **Software Quality Assurance**
 
 - 👨‍💻 All of my projects are available at [https://mahmudrq.github.io/](https://mahmudrq.github.io/)
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **QA**
 
 - 📫 How to reach me **haque9992@gmail.com**
 
